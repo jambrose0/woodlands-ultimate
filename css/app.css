@@ -1,0 +1,14 @@
+:root {
+  --primary-color: rgba(0, 128, 0, 0.555);
+}
+.top-bar {
+  background-color: var(--primary-color);
+}
+
+.hero {
+  background-image: url("../imgs/hero.png");
+  height: 600px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}

@@ -1,0 +1,11 @@
+header nav {
+  float: right;
+}
+
+.hero {
+  background-image: url("../img/sweatyOli-1.jpg");
+  height: 600px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
